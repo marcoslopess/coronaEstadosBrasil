@@ -1,5 +1,5 @@
 <h3 align="center">
-   Analise de crédito
+   Painel Corona Vírus
 </h3>
 
 ---
@@ -52,12 +52,12 @@ Ao iniciar o projeto, o usuário será redirecionado para a pagina inicial:
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/marcoslopess/coronaEstadosBrasil/master/img/pageIndex.PNG" width="500">
 </h1>
-Após escolher se quer ver de todos os estados ou de um estado especifico o usuario vai ser redirecionado para uma pagina onde vai aparacer a listagem escolhida.
+Após escolher se quer ver de todos os estados ou de um estado especifico o usuário vai ser redirecionado para uma pagina onde vai aparacer a listagem escolhida.
 <h1 align="center">
     <img src="https://raw.githubusercontent.com/marcoslopess/coronaEstadosBrasil/master/img/dashboard.PNG" width="500">
 </h1>
 
-Ao clicar no botão voltar, o usuario é redirecionado para a pagina inicial.
+Ao clicar no botão voltar, o usuário é redirecionado para a pagina inicial.
 
 ---
 
