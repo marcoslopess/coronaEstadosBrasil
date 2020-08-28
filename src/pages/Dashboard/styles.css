@@ -228,6 +228,9 @@
     .dashboard-container h1+ul li {
         background: #fedf00;
     }
+    .dashboard-container .one-state-button {
+        background-color: #1da583;
+    }
     .dashboard-container h1+ul li strong {
         color: #000000;
     }

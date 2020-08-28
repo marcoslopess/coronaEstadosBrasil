@@ -45,7 +45,7 @@ export default function Dashboard() {
             <header>
                 <img src={logoImg} alt="Painel Corona Vírus" />
                 <span>Bem Vindo (a)</span>
-                <Link to="/" className="button-logoff" onClick={handleLogout} >Sair</Link>
+                <Link to="/" className="button-logoff" onClick={handleLogout} >Voltar</Link>
             </header>
 
             <h1>Casos totais do Brasil</h1>
@@ -106,7 +106,7 @@ export default function Dashboard() {
                                         />
                                     </a>
                                 </h5>
-                                <button type="button" className="one-button" >
+                                <button type="button" className="one-state-button" >
                                     <img
                                         src={require(`../../assets/estados/${incident.uf}.png`)}
 
